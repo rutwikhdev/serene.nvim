@@ -1,0 +1,26 @@
+return function(c)
+  return {
+    NeoTreeNormal = { fg = c.fg, bg = c.bg_alt },
+    NeoTreeNormalNC = { fg = c.fg, bg = c.bg_alt },
+    NeoTreeEndOfBuffer = { fg = c.bg_alt, bg = c.bg_alt },
+    NeoTreeWinSeparator = { fg = c.border, bg = c.bg_alt },
+    NeoTreeCursorLine = { bg = c.blue_bg },
+    NeoTreeDirectoryName = { fg = c.fg },
+    NeoTreeDirectoryIcon = { fg = c.blue },
+    NeoTreeRootName = { fg = c.blue, bold = true },
+    NeoTreeFileNameOpened = { fg = c.blue_soft, bold = true },
+    NeoTreeDimText = { fg = c.subtle },
+    NeoTreeDotfile = { fg = c.muted },
+    NeoTreeHiddenByName = { fg = c.subtle },
+    NeoTreeIndentMarker = { fg = c.border },
+    NeoTreeExpander = { fg = c.muted },
+    NeoTreeModified = { fg = c.yellow },
+    NeoTreeGitAdded = { fg = c.green },
+    NeoTreeGitModified = { fg = c.yellow },
+    NeoTreeGitDeleted = { fg = c.red },
+    NeoTreeGitConflict = { fg = c.red, bold = true },
+    NeoTreeGitUntracked = { fg = c.green },
+    NeoTreeGitIgnored = { fg = c.subtle },
+    NeoTreeTitleBar = { fg = c.fg_bright, bg = c.blue_bg, bold = true },
+  }
+end
