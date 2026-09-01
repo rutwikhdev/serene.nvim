@@ -42,8 +42,6 @@ M.light = {
   none = 'NONE',
 }
 
-function M.get(background)
-  return M[background == 'light' and 'light' or 'dark']
-end
+function M.get(background) return M[background == 'light' and 'light' or 'dark'] end
 
 return M
