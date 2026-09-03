@@ -1,0 +1,26 @@
+# Serene Dark
+# A quiet blue theme with pastel accents and a grey-led hierarchy.
+
+palette = 0=#202020
+palette = 1=#e58c8a
+palette = 2=#9fbd9a
+palette = 3=#d2b875
+palette = 4=#6f8fd1
+palette = 5=#b9a0d8
+palette = 6=#89a5df
+palette = 7=#c1c1c1
+palette = 8=#5f5f5f
+palette = 9=#e58c8a
+palette = 10=#9fbd9a
+palette = 11=#d2b875
+palette = 12=#89a5df
+palette = 13=#b9a0d8
+palette = 14=#89a5df
+palette = 15=#dedede
+
+background = #202020
+foreground = #c1c1c1
+cursor-color = #6f8fd1
+cursor-text = #202020
+selection-foreground = #dedede
+selection-background = #293247
