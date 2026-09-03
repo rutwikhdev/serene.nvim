@@ -1,0 +1,70 @@
+[meta]
+name = "Serene Light"
+author = "Serene"
+
+[colors.primary]
+background = "#ffffff"
+foreground = "#2f3030"
+
+[colors.selection]
+text = "#171818"
+background = "#e9edf5"
+
+[colors.normal]
+black = "#171818"
+red = "#a84f55"
+green = "#5f7e5c"
+yellow = "#88702f"
+blue = "#5871a2"
+magenta = "#775f9d"
+cyan = "#405b91"
+white = "#a9a9a9"
+
+[colors.bright]
+black = "#767676"
+red = "#a84f55"
+green = "#5f7e5c"
+yellow = "#88702f"
+blue = "#405b91"
+magenta = "#775f9d"
+cyan = "#405b91"
+white = "#2f3030"
+
+[colors.search.matches]
+foreground = "#ffffff"
+background = "#405b91"
+
+[colors.search.focused_match]
+foreground = "#ffffff"
+background = "#5871a2"
+
+[colors.footer_bar]
+foreground = "#2f3030"
+background = "#f7f7f7"
+
+[colors.hints.start]
+foreground = "#2f3030"
+background = "#f7f7f7"
+
+[colors.hints.end]
+foreground = "#767676"
+background = "#f7f7f7"
+
+[colors.line_indicator]
+foreground = "#171818"
+background = "#e9edf5"
+
+[colors.active_tab]
+foreground = "#171818"
+background = "#e9edf5"
+
+[colors.inactive_tab]
+foreground = "#767676"
+background = "#f7f7f7"
+
+[colors.inactive_tab_hover]
+foreground = "#2f3030"
+background = "#e9edf5"
+
+[colors.tab_bar]
+background = "#f7f7f7"

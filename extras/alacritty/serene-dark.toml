@@ -1,0 +1,70 @@
+[meta]
+name = "Serene Dark"
+author = "Serene"
+
+[colors.primary]
+background = "#202020"
+foreground = "#c1c1c1"
+
+[colors.selection]
+text = "#dedede"
+background = "#293247"
+
+[colors.normal]
+black = "#202020"
+red = "#e58c8a"
+green = "#9fbd9a"
+yellow = "#d2b875"
+blue = "#6f8fd1"
+magenta = "#b9a0d8"
+cyan = "#89a5df"
+white = "#c1c1c1"
+
+[colors.bright]
+black = "#5f5f5f"
+red = "#e58c8a"
+green = "#9fbd9a"
+yellow = "#d2b875"
+blue = "#89a5df"
+magenta = "#b9a0d8"
+cyan = "#89a5df"
+white = "#dedede"
+
+[colors.search.matches]
+foreground = "#202020"
+background = "#89a5df"
+
+[colors.search.focused_match]
+foreground = "#202020"
+background = "#6f8fd1"
+
+[colors.footer_bar]
+foreground = "#c1c1c1"
+background = "#272727"
+
+[colors.hints.start]
+foreground = "#c1c1c1"
+background = "#272727"
+
+[colors.hints.end]
+foreground = "#848484"
+background = "#272727"
+
+[colors.line_indicator]
+foreground = "#dedede"
+background = "#293247"
+
+[colors.active_tab]
+foreground = "#dedede"
+background = "#293247"
+
+[colors.inactive_tab]
+foreground = "#848484"
+background = "#272727"
+
+[colors.inactive_tab_hover]
+foreground = "#c1c1c1"
+background = "#293247"
+
+[colors.tab_bar]
+background = "#272727"
